@@ -24,3 +24,6 @@ without requiring unnecessary code duplication.
   [2.5]: https://github.com/doctrine/doctrine2/tree/2.5
   [2.5 coverage image]: https://img.shields.io/scrutinizer/coverage/g/doctrine/doctrine2/2.5.svg?style=flat-square
   [2.5 coverage]: https://scrutinizer-ci.com/g/doctrine/doctrine2/?branch=2.5
+
+修复这个问题：
+https://github.com/FriendsOfSymfony/FOSUserBundle/issues/1062
